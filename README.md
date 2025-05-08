@@ -5,8 +5,6 @@
 ``` ``` -- OXYUM CSS
 ``` ``` -- OXYUM ELEMENTS
 
-### extras
-
 # quick google icons
 
 link to google icon api: ```<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined />```
