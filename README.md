@@ -1,8 +1,8 @@
 # oxyassets
 ### icons
-``` ``` -- OXYUM PNG
-``` ``` -- OXYUM ICO
-``` ``` -- OXYUM CSS
+```https://github.com/OxyX1/oxyassets/blob/692930695f0033c07479fdf1ed894bfa7dda3709/icons/oxyum/oxy.png``` -- OXYUM PNG
+```https://cdn.jsdelivr.net/gh/OxyX1/oxyassets@692930695f0033c07479fdf1ed894bfa7dda3709/icons/oxyum/oxy.ico``` -- OXYUM ICO
+```https://cdn.jsdelivr.net/gh/OxyX1/oxyassets@692930695f0033c07479fdf1ed894bfa7dda3709/oxycss.min.js ``` -- OXYUM CSS
 ``` ``` -- OXYUM ELEMENTS
 
 # quick google icons
